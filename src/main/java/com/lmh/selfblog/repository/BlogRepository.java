@@ -1,4 +1,4 @@
-package com.lmh.selfblog.Repository;
+package com.lmh.selfblog.repository;
 
 import com.lmh.selfblog.domain.Article;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,7 +1,7 @@
 package com.lmh.selfblog;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.lmh.selfblog.Repository.BlogRepository;
+import com.lmh.selfblog.repository.BlogRepository;
 import com.lmh.selfblog.domain.Article;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
